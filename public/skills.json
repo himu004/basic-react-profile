@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "img": "https://example.com/html.png",
+      "name": "HTML"
+    },
+    {
+      "id": 2,
+      "img": "https://example.com/css.png",
+      "name": "CSS"
+    },
+    {
+      "id": 3,
+      "img": "https://example.com/javascript.png",
+      "name": "JavaScript"
+    },
+    {
+      "id": 4,
+      "img": "https://example.com/react.png",
+      "name": "React.js"
+    },
+    {
+      "id": 5,
+      "img": "https://example.com/angular.png",
+      "name": "Angular"
+    },
+    {
+      "id": 6,
+      "img": "https://example.com/vue.png",
+      "name": "Vue.js"
+    },
+    {
+      "id": 7,
+      "img": "https://example.com/bootstrap.png",
+      "name": "Bootstrap"
+    },
+    {
+      "id": 8,
+      "img": "https://example.com/sass.png",
+      "name": "Sass"
+    },
+    {
+      "id": 9,
+      "img": "https://example.com/typescript.png",
+      "name": "TypeScript"
+    },
+    {
+      "id": 10,
+      "img": "https://example.com/git.png",
+      "name": "Git"
+    },
+    {
+      "id": 11,
+      "img": "https://example.com/webpack.png",
+      "name": "Webpack"
+    },
+    {
+      "id": 12,
+      "img": "https://example.com/responsive-design.png",
+      "name": "Responsive Design"
+    }
+]
+  
